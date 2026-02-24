@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="342" height="342" viewBox="-171 -171 342 342">
+<desc>Created with SVGMaker Editor 2.2.3</desc>
+<defs>
+</defs>
+<circle transform="translate(0,0)" style="stroke: rgb(0,0,0); stroke-width: 50; stroke-dasharray: 1 10; fill: rgb(255,255,255); fill-opacity: 0" cx="0.196" cy="0.196" r="120.696" vector-effect="non-scaling-stroke"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M30.9885 13.127L65.4438 157.2899 0.4998 0.4979"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M-12.1293 30.9866L65.4438 157.2899 0.4998 0.4979"/>
+<path transform="translate(0,0)" style="stroke: rgb(0,0,0); fill: rgb(255,255,255)" stroke-linecap="round" d="M13.1293 30.9866L-64.4438 157.2899 0.5002 0.4979"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M-29.9885 13.127L-64.4438 157.2899 0.5002 0.4979"/>
+<path transform="translate(0,0)" style="stroke: rgb(180,180,180); fill: rgb(1,1,1)" stroke-linecap="round" d="M-12.1269 30.9885L-156.2898 65.4438 0.5022 0.4998"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M-29.9865-12.1293L-156.2898 65.4438 0.5022 0.4998"/>
+<path transform="translate(0,0)" style="stroke: rgb(0,0,0); fill: rgb(243,242,242)" stroke-linecap="round" d="M-29.9865 13.1293L-156.2898-64.4438 0.5022 0.5002"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M-12.1269-29.9885L-156.2898-64.4438 0.5022 0.5002"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M-29.9885-12.1269L-64.4438-156.2898 0.5002 0.5022"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M13.1293-29.9865L-64.4438-156.2898 0.5002 0.5022"/>
+<path transform="translate(0,0)" style="stroke: rgb(0,0,0); fill: rgb(255,255,255)" stroke-linecap="round" d="M-12.1293-29.9865L65.4438-156.2898 0.4998 0.5022"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(0,0,0)" stroke-linecap="round" d="M30.9885-12.1269L65.4438-156.2898 0.4998 0.5022"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M13.1269-29.9885L157.2898-64.4438 0.4978 0.5002"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M30.9865 13.1293L157.2898-64.4438 0.4978 0.5002"/>
+<path transform="translate(0,0)" style="stroke: rgb(0,0,0); fill: rgb(255,255,255)" stroke-linecap="round" d="M30.9865-12.1293L157.2898 65.4438 0.4978 0.4998"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M13.1269 30.9885L157.2898 65.4438 0.4978 0.4998"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M48.5 0.5L171.5 171.5 0.5 0.5"/>
+<path transform="translate(0,0)" style="stroke: rgb(0,0,0); fill: rgb(255,255,255)" stroke-linecap="round" d="M0.5 48.5L171.5 171.5 0.5 0.5"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M0.5 48.5L-170.5 171.5 0.5 0.5"/>
+<path transform="translate(0,0)" style="stroke: rgb(0,0,0); fill: rgb(255,255,255)" stroke-linecap="round" d="M-47.5 0.5L-170.5 171.5 0.5 0.5"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M-47.5 0.5L-170.5-170.5 0.5 0.5"/>
+<path transform="translate(0,0)" style="stroke: rgb(0,0,0); fill: rgb(255,255,255)" stroke-linecap="round" d="M0.5-47.5L-170.5-170.5 0.5 0.5"/>
+<path transform="translate(0,0)" style="stroke: rgb(255,255,255); fill: rgb(1,1,1)" stroke-linecap="round" d="M0.5-47.5L171.5-170.5 0.5 0.5"/>
+<path transform="translate(0,0)" style="stroke: rgb(0,0,0); fill: rgb(255,255,255)" stroke-linecap="round" d="M48.5 0.5L171.5-170.5 0.5 0.5"/>
+</svg>
